@@ -1,4 +1,4 @@
-package com.cdq.nacosprovider.controller;
+package com.lirong.nacosprovider.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
